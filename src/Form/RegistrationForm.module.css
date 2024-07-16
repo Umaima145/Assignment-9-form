@@ -1,0 +1,43 @@
+
+
+.registrationform {
+    max-width: 900px;
+    margin: 0 auto ; 
+    padding-left: 50px;
+    padding-right: 50px;
+    justify-content: center;
+   align-items: center;
+    border: 1px solid #0576ee;
+    border-radius: 5px;
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 350px;
+}
+.registrationform h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.formgroup {
+    margin-bottom: 1rem;
+}
+
+
+
+.formgroup label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.formcheck {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.formcheckinput {
+    margin-right: 0.5rem;
+}
+
